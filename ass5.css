@@ -1,0 +1,26 @@
+div.img1 {
+    width: 250px;
+    text-align: center;
+    background-color:white;color:black;
+    box-shadow: 0 4px 8px 0 grey, 0 6px 20px 0 grey;
+}
+
+.icon{
+    display: flex; 
+    padding-left: 10px;
+}
+.b{
+    display: flex;
+    padding: 10px;
+}
+div.sat{display: flex;
+
+}
+.a{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.head{
+    display: flex;
+}
